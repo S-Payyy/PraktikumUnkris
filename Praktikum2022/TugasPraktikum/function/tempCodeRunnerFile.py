@@ -1,1 +1,0 @@
-print("Code Created by Muhamad Rifai 2270231011")
