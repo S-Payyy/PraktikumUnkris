@@ -1,7 +1,7 @@
 # PraktikumUnkris
 
-/nNeed rich module
-/npython using v3.11.0
-/nuser : admin
-/npass : 12345678
-/nNote : code is't done right now!
+Need rich module <br/>
+python using v3.11.0 <br/>
+user : admin <br/>
+pass : 12345678 <br/>
+Note : code is't done right now! <br/>
