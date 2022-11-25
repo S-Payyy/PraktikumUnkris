@@ -1,0 +1,9 @@
+
+##################################
+Nama		: payys
+Alamat		: 123
+No Telp		: 1224
+Total Barang	: 10
+Total Harga	: 20000
+Tanggal		: 5 November 2022
+##################################
